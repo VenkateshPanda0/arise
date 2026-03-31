@@ -15,6 +15,9 @@ ARISE is a mobile application that models personal growth as a structured RPG-st
 
 ## 📸 Screenshots
 ![Setup](screenshots/setup.jpg)
+![Home](screenshots/home.jpg)
+![Stats](screenshots/stats.jpg)
+![Tasks](screenshots/tasks.jpg)
 
 ---
 
